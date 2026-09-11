@@ -1,0 +1,15 @@
+{
+  "name": "cyber-engine-9588",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3437,
+    "createdAt": "2026-09-11T14:58:11.538Z"
+  }
+}
